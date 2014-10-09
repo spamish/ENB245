@@ -17,7 +17,6 @@
 ; ************************************************************
 
 .include "m32u4def.inc"
-.include "m32u4def_twi.inc"
 
 ; **
 ; * CONSTANTS
